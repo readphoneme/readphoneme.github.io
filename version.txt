@@ -1,2 +1,2 @@
 1.0.1
-http://readphoneme.github.io/readphoneme_1.0.1.apk
+https://dl.dropboxusercontent.com/u/107804138/apk/readphoneme_1.0.1.apk
