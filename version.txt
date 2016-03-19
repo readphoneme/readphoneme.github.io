@@ -1,2 +1,2 @@
-1.0.1
+1.0.0
 https://dl.dropboxusercontent.com/u/107804138/apk/readphoneme_1.0.1.apk
